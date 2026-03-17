@@ -1,6 +1,6 @@
 ## About Me
 
-Full Stack Developer based in Buenos Aires, Argentina, with 4+ years of experience building web applications and business systems. I mainly work with React, TypeScript and Node.js, focusing on API architecture, automation systems and scalable interfaces.
+Full Stack Developer based in Buenos Aires, Argentina, with experience building web applications and business systems. I mainly work with React, TypeScript and Node.js, focusing on API architecture, automation systems and scalable interfaces.
 
 I enjoy building reliable software that solves operational problems and supports long-term product growth.
 
